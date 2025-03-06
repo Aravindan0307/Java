@@ -11,7 +11,7 @@ public class Alert {
 		//Alert alert= driver.switchTo().alert();
 		//String text= alert.getText();
 		//System.out.println("Simple alert text"+text);
-		// alert.accept();
+		 //alert.accept();
 		
 	}
 

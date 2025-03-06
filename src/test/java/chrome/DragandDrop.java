@@ -19,6 +19,7 @@ public class DragandDrop {
 		WebElement target=driver.findElementById("droppable");
 		Actions builder= new Actions(driver);
 		builder.dragAndDrop(source, target).perform();
+		System.out.println("hi");
 	}
 
 }
